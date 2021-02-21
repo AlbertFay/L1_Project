@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Intersection.h
+vector
+-
+future
+-
+mutex
+-
+memory
+-
+TrafficObject.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/TrafficObject.h
+
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Street.h
+TrafficObject.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/TrafficObject.h
+
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/TrafficObject.h
+vector
+-
+thread
+-
+
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Vehicle.h
+TrafficObject.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/TrafficObject.h
+
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Vehicle_Student.cpp
+iostream
+-
+random
+-
+Street.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Street.h
+Intersection.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Intersection.h
+Vehicle.h
+C:/Users/Albert/Desktop/L1_Project.tar/L1_Project/src/Vehicle.h
+
